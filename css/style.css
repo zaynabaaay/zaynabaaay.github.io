@@ -105,7 +105,7 @@ header {
   padding-top: 75px;
   transition: 1s;
   margin-top: 0;
-  margin-right: 40px;
+  margin-right: 130px;
 }
 
 .menu_components.is-active {
@@ -364,6 +364,7 @@ display: flex;
 -ms-flex-wrap: wrap; /* IE 10 */
 flex-wrap: wrap;
 padding: 0 4px;
+margin-left: 35px;
 }
 
 .column-ritchie {
@@ -385,6 +386,7 @@ display: flex;
 -ms-flex-wrap: wrap; /* IE 10 */
 flex-wrap: wrap;
 padding: 0 4px;
+margin-left: 35px;
 }
 
 .column-corona {
